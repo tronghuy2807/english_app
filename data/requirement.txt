@@ -1,0 +1,12 @@
+1. Hiển thị box hỏi nghĩa từ vựng: 1 từ tiếng anh --> 3 đáp án (lựa chọn đáp án đúng)
+2. Số lượng từ vựng: 3000 từ trong dictionary
+3. Mỗi ngày hiện 8 từ, ngày hôm sau hiện 8 từ 45' hỏi 1 từ
+4. Ngoài lựa chọn đáp án còn thêm các lựa chọn: Độ khó của từ, Trả lời sau
+5. Thuật toán đưa ra từ để hỏi phụ thuộc vào điểm số:
+   + Trả lời đúng/sai
+   + Đánh giá câu trả lời: dễ, bình thường, khó
+   + Bỏ qua thời điểm hiện tại
+   + .....
+--------------------------------------------------------------
+6. Đưa ra gợi ý cho từ bằng các câu và ngữ cảnh
+7. Áp dụng 1 thuật toán ML
